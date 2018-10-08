@@ -1,0 +1,5 @@
+<launch>
+    <!-- My Package launch file -->
+    <node pkg="simple_topic_publisher" type="simple_topic_publisher.py" name="ObiWan"  output="screen">
+    </node>
+</launch>
