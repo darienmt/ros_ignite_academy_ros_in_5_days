@@ -1,0 +1,3 @@
+<launch>
+    <node pkg="topics_mini_project" type="mini_project.py" name="mini_project_node" output="screen" />
+</launch>
