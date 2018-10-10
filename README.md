@@ -9,3 +9,8 @@ I am playing with ROS Ignite Academy and ROS. This repo will contain all the cod
 - [read_odometry](src/read_odometry): Node subscribed to the odometry topic(/odom) and also compile a creates a message Age.
 - [simple_topic_publisher](src/simple_topic_publisher): Publish velocity commands(Twist) to the /cmd_vel topic to move the robot.
 - [topics_mini_project](src/topics_mini_project): Reads the laser scan messages(/kobuki/laser/scan) and command the robot to move avoiding hitting the wall.
+
+## Unit 3: Services
+- [simple_service_client.py](src/simple_service_client.py): A service client to delete an object from gazebo.
+- [unit_3_service](src/unit_3_service): Create a node calling the /execute_trajectory service to move the arm on a trajectory in a file.
+
