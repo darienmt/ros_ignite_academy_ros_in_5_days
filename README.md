@@ -13,4 +13,4 @@ I am playing with ROS Ignite Academy and ROS. This repo will contain all the cod
 ## Unit 3: Services
 - [simple_service_client.py](src/simple_service_client.py): A service client to delete an object from gazebo.
 - [unit_3_services](src/unit_3_services): Create a node calling the /execute_trajectory service to move the arm on a trajectory in a file.
-- [unit_3_service_bb8](src/unit_3_service_bb8): Create a service for moving a BB8 model in Gazebo on a square trajectory.
+- [unit_3_service_bb8](src/unit_3_service_bb8): Create a services for moving a BB8 model in Gazebo on a square trajectory with fixed and custom square side.
