@@ -1,0 +1,5 @@
+<launch>
+    <!-- Start Service Server for move_bb8_in_square service -->
+    <node pkg="unit_3_service_bb8" type="bb8_move_in_square_service_client.py" name="service_move_bb8_in_square_client"  output="screen">
+    </node>
+</launch>
