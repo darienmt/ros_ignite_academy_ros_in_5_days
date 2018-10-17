@@ -1,0 +1,3 @@
+<launch>
+    <node pkg="exercise_46" type="move_drone.py" name="drone_action_client" output="screen" />
+</launch>
