@@ -20,7 +20,8 @@ I am playing with ROS Ignite Academy and ROS. This repo will contain all the cod
 - [exercise_46](src/exercise_46): Node to use the ARDrone action to move the drone.
 - [cancel_goal_test.py](src/candel_goal_test.py): Action goal cancelation to see the effect on the action node.
 - [fibonacci_action_server.py](src/fibonacci_action_server.py): Action server example.
-- [exercise_413](src/exercisa_413): Action service to move the drone in a square trajectory.
+- [exercise_413](src/exercise_413): Action service to move the drone in a square trajectory.
+- [exercise_414](src/exercise_414): Custom message action service.
 
 
 
